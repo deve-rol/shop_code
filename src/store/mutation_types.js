@@ -1,0 +1,1 @@
+export const M_UPDATE_PRODUCTS = "M_UPDATE_PRODUCTS";
